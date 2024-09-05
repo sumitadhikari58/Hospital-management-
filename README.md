@@ -1,7 +1,7 @@
 Hi Guys This is A Hospital Management System,
 Well it's not yet ready!
 
-Under maintainenance⚠️
+Under maintenance⚠️
 
 
 Thanks for passing by!
