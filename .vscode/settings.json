@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/sumitadhikari/Downloads/ResultSet2xml.jar",
+        "/Users/sumitadhikari/Downloads/mysql-connector-java-8.0.28.jar"
+    ]
+}
