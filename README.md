@@ -9,4 +9,8 @@ How to use the contents of this repo:</h1>
         <p>2. Make use of the default root of the MySql database.</p>
         <p>3. Copy all the SQL file in MySql in the database.</p>
         <p>4. Run all the queries line by line.</p>
-        <p>That's all, you are set.</p>
+        <p>That's all, you are set.🙌</p>
+
+<h3>
+        Any queries,no need to worry drop a mail!✉️
+</h3>
