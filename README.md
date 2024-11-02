@@ -1,4 +1,4 @@
-<h1>
+<h1 align ="center">
 How to use the contents of this repo:</h1>
 <p>1. Create a "Hospital Management" named folder.</p>
         <p>2. Clone all the repo and put it into the folder except the MySql.</p>
@@ -17,7 +17,16 @@ How to use the contents of this repo:</h1>
 <img src = "Login.png" width = 700px height = 400px>
 <h4>Reception Window</h4>
 <img src = "Reception.png" width = 700px height = 400px>
+ <h4>PatientInfo Window</h4> 
+<img src = "PatientInfo.png" width = 700px height = 400px>
 <h3>
+        For any other sample image for the respective classes can be seen from the repository itself!
+</h3>
+<h3  font-style: italic;">Liked the project? Make sure to drop a ⭐!</h3>
+  <h3 style="color: blue; font-style: italic;">Ideas💡? You are most welcome to contribute.</h3>
+  <h3 style="color: blue; font-style: italic;">Thanks for passing by 😄!</h3>
+
+<h3 align ="center">
         Any queries,no need to worry drop a mail!✉️
 </h3>
 
