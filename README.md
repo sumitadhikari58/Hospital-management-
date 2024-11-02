@@ -13,8 +13,9 @@ How to use the contents of this repo:</h1>
         <h3>
                 Some sample images of this project!
         </h3>
-        
+  <h4>Login Window</h4>      
 <img src = "Login.png" width = 700px height = 400px>
+<h4>Reception Window</h4>
 <img src = "Reception.png" width = 700px height = 400px>
 <h3>
         Any queries,no need to worry drop a mail!✉️
