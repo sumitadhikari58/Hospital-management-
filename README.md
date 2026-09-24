@@ -10,6 +10,7 @@ How to use the contents of this repo:</h1>
         <p>3. Copy all the SQL file in MySql in the database.</p>
         <p>4. Run all the queries line by line.</p>
         <p>That's all, you are set.🙌</p>
+        <p>Database design (keys, constraints, triggers, views, procedures): see <a href="DATABASE.md">DATABASE.md</a>. Requires MySQL 8.0.23 or newer.</p>
         <h3>
                 Some sample images of this project!
         </h3>
